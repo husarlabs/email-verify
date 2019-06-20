@@ -1,3 +1,20 @@
 {
-  "addresses" : [ "jobs", "job", "hire", "team", "hr", "dev", "developers", "tech", "webmaster", "info", "contact", "employment", "recruitment", "recruiting", "recruit", "hiring" ]
+  "addresses": [
+    "jobs",
+    "job",
+    "hire",
+    "team",
+    "hr",
+    "dev",
+    "developers",
+    "tech",
+    "webmaster",
+    "info",
+    "contact",
+    "employment",
+    "recruitment",
+    "recruiting",
+    "recruit",
+    "hiring"
+  ]
 }

@@ -5,20 +5,21 @@
   "main": "index.js",
   "dependencies": {
     "bluebird": "^3.5.1",
+    "csv-parse": "^4.4.3",
     "mocha": "^4.0.1",
     "nyc": "^11.3.0",
     "validator": "^9.1.1"
   },
   "devDependencies": {},
   "bugs": {
-    "url": "https://github.com/bighappyworld/email-verify/issues"
+    "url": "https://github.com/husarlabs/email-verify/issues"
   },
   "scripts": {
     "test": "nyc --reporter=lcov mocha ./test/*.test.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bighappyworld/email-verify"
+    "url": "https://github.com/husarlabs/email-verify"
   },
   "preferGlobal": true,
   "bin": {
@@ -36,7 +37,8 @@
     "sancowinx <jm-sarn@hotmail.com> (https://github.com/sancowinx)",
     "Martin Edwards <martin@brilliantnoise.com> (https://github.com/mledwards)",
     "james075 <james.heng@epitech.eu> (https://github.com/james075)",
-    "Matti Savolainen <matti@applifier.com> (https://github.com/Nomon)"
+    "Matti Savolainen <matti@applifier.com> (https://github.com/Nomon)",
+    "Krzysztof Drożyński <krzysztof.drozynski@lerta.energy> (https://github.com/krystyw)"
   ],
   "license": "ISC",
   "keywords": [
